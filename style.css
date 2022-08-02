@@ -1,0 +1,20 @@
+#clear{
+    width: 260px;
+}
+
+.formstyle{
+    width: 260px;
+    height: 340px;
+    margin: auto;
+    border:2px solid black;
+
+}
+input{
+    width: 84px;
+    background-color: black;
+    color: white;
+
+}
+#answerstyle{
+    width: 252px;
+}
